@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import { useState } from "react";
-import { SlideDown } from "react-slidedown";
+//import { SlideDown } from "react-slidedown";
 //import "react-slidedown/lib/slidedown.css";
 
 const FaqItem = ({ item, index }) => {
